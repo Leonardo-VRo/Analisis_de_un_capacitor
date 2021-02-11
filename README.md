@@ -1,5 +1,3 @@
-# Data_Analysis
-
 ## Análisis del proceso de carga y descarga de un capacitor usando Machine Learning ##
   
 En este proyecto muestro de manera muy sencilla el proceso de carga y descarga de un capacitor en un circuito RC utilizando un modelo de regresión, esto con la finalidad de determinar la diferecia de potencial en diferentes instantes de tiempo.  
